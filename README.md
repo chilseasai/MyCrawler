@@ -1,2 +1,2 @@
 # MyCrawler
-Crawl web page by urllib.
+Python3 网络爬虫开发实战
